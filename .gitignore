@@ -1,0 +1,4 @@
+echo "__pycache__/\n.env" > .gitignore
+git add .gitignore README.md
+git commit -m "Initial commit"
+git push
